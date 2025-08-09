@@ -1,0 +1,7 @@
+4207670316662801|06|2033|192 | visa | Debit card | Jpmorgan Chase Bank N.A. - Debit | Visa Classic | United States of America (the) (US)
+4207670316643314|09|2033|148 | visa | Debit card | Jpmorgan Chase Bank N.A. - Debit | Visa Classic | United States of America (the) (US)
+4207670316602773|11|2033|343 | visa | Debit card | Jpmorgan Chase Bank N.A. - Debit | Visa Classic | United States of America (the) (US)
+4207670316606006|01|2033|173 | visa | Debit card | Jpmorgan Chase Bank N.A. - Debit | Visa Classic | United States of America (the) (US)
+4207670316613754|03|2033|441 | visa | Debit card | Jpmorgan Chase Bank N.A. - Debit | Visa Classic | United States of America (the) (US)
+4207670316651580|03|2033|121 | visa | Debit card | Jpmorgan Chase Bank N.A. - Debit | Visa Classic | United States of America (the) (US)
+4207670316604761|05|2033|671 | visa | Debit card | Jpmorgan Chase Bank N.A. - Debit | Visa Classic | United States of America (the) (US)

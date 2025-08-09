@@ -9,8 +9,8 @@
  * BY       : DARKXCODE
  */
 
- require_once "function/function.php";
- require_once "function/settings.php";
+ require_once "function.php";
+ require_once "settings.php";
  
  echo banner();
  echo banner2();
@@ -282,4 +282,5 @@ function collorLine($col)
     $collor = $data[$col];
     return $collor;
 }
+
 ?>
